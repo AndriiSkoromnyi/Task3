@@ -5,6 +5,7 @@ WSB Project 3
 
 
 Wszystkie pliki PDF
+
 [UML(1).pdf](https://github.com/AndriiSkoromnyi/Task3/files/12570733/UML.1.pdf)
 
 [UML(2).pdf](https://github.com/AndriiSkoromnyi/Task3/files/12570730/UML.2.pdf)
